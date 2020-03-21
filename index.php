@@ -110,6 +110,7 @@
 	</style>
 </head>
 <body>
+	<center>this shit is by b3sy0ni</center><h1>
 	<form action="up.php" method="POST" enctype="multipart/form-data">
 	<div class="upload" id="PDSUP">
 	<input class="input-file input-file1" onchange="chang(this);" id="my-file" name='allfil[]' type="file">
